@@ -1,6 +1,6 @@
 # err...wut.drone
 
-<img src="imgs/drone.jpeg">
+<img src="imgs/drone.jpeg" >
 
 Very early development of a testing bed for creating a customized web api for controlling a tello web drone.
 
